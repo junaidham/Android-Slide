@@ -6,17 +6,22 @@ Android Slide / Walkthrough / Onboarding Screen Design
 
 
 Screenshot
--------
+-----------
 
-https://github.com/junaidham/Android-Slide/blob/master/Screen%20Short/screenshot_0303154833.png
-https://github.com/junaidham/Android-Slide/blob/master/Screen%20Short/screenshot_0303154901.png
-https://github.com/junaidham/Android-Slide/blob/master/Screen%20Short/screenshot_0303154929.png
-https://github.com/junaidham/Android-Slide/blob/master/Screen%20Short/screenshot_0303154955.png
+![](Screen%20Short/screenshot_0303154833.png)
+
+![](Screen%20Short/screenshot_0303154901.png)
+
+![](Screen%20Short/screenshot_0303154929.png)
+
+![](Screen%20Short/screenshot_0303154955.png)
 
 
+Notes
+----
 
-
-
+for attacheched images
+![](images/you-picture.png)
 
 Refe
 -----
