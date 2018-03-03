@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#262938</color>
+    <color name="colorPrimaryDark">#181A24</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorAppDivider">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colortWhite">#CCCCCC</color>
+</resources>

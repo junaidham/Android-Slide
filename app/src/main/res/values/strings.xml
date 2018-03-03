@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Slide</string>
+    <string name="home">Home</string>
+
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+</resources>
